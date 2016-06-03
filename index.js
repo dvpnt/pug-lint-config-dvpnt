@@ -1,8 +1,6 @@
 module.exports = {
 	excludeFiles: [
-		'node_modules/**',
-		'static/js/lib/vendor/**',
-		'static/scripts/**'
+		'node_modules/**'
 	],
 	disallowAttributeConcatenation: true,
 	disallowAttributeInterpolation: null,
