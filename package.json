@@ -1,6 +1,6 @@
 {
   "name": "pug-lint-config-dvpnt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "pug-lint config for dvpnt projects",
   "main": "index.js",
   "scripts": {
