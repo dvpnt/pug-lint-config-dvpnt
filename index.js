@@ -2,7 +2,7 @@ module.exports = {
 	excludeFiles: [
 		'node_modules/**'
 	],
-	disallowAttributeConcatenation: true,
+	disallowAttributeConcatenation: null,
 	disallowAttributeInterpolation: null,
 	disallowBlockExpansion: true,
 	disallowClassAttributeWithStaticValue: null,
