@@ -1,0 +1,23 @@
+{
+  "name": "pug-lint-config-dvpnt",
+  "version": "1.0.0",
+  "description": "pug-lint config for dvpnt projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvpnt/pug-lint-config-dvpnt.git"
+  },
+  "keywords": [
+    "puglint",
+    "puglintconfig"
+  ],
+  "author": "cassln <nikita.mlnk@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dvpnt/pug-lint-config-dvpnt/issues"
+  },
+  "homepage": "https://github.com/dvpnt/pug-lint-config-dvpnt#readme"
+}
